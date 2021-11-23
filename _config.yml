@@ -1,0 +1,20 @@
+title: Räkmaskinen
+description: >-
+  Räkmaskinen kan alla siffror!
+baseurl: ""
+url: ""
+
+sass:
+  sass_dir: _sass
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,0 +1,60 @@
+h1, p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+html {
+    background: rgb(246,192,96);
+    background: radial-gradient(circle, rgba(246,192,96,1) 50%, rgba(2,0,36,1) 100%, rgba(0,212,255,1) 100%); 
+    height: clamp(800px, 100vh, 100vh);
+}
+
+header {
+    margin-top: 2rem;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Black Ops One', cursive;
+    font-size: 4rem;
+    color: #BC0D00;
+    .svg {
+        height: 0.7em;
+    }
+}
+
+h2 {
+    font-family: 'Coda', cursive;
+    font-size: 2rem;
+    margin-bottom: 1em;
+}
+
+content {
+    font-family: 'Coda', cursive;
+    p {
+        display: flex;
+        justify-content: center;
+        img {
+            width: clamp(500px, 50vw, 90vw);
+            margin-right: 10%;
+        }
+    }
+}
+
+footer {
+    font-family: 'Coda', cursive;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 2em;
+    .svg {
+        height: 0.8em;
+    }
+}
+
