@@ -1,7 +1,7 @@
 ---
 layout: base
 title: About Räkmasinen
-permalink: /about/
+permalink: /about
 ---
 ## Some additional information
 
