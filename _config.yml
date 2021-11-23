@@ -2,7 +2,7 @@ title: Räkmaskinen
 description: >-
   Räkmaskinen kan alla siffror!
 baseurl: ""
-url: ""
+url: "https://shrimpmachine.rhahi.com"
 
 sass:
   sass_dir: _sass
