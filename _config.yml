@@ -7,6 +7,9 @@ url: "https://shrimpmachine.rhahi.com"
 sass:
   sass_dir: _sass
 
+include:
+  - favicon.svg
+
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
