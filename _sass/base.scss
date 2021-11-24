@@ -9,10 +9,8 @@ a {
 
 html {
     background: rgb(246,192,96);
-    background: radial-gradient(circle, rgba(246,192,96,1) 50%, rgba(2,0,36,1) 100%, rgba(0,212,255,1) 100%); 
+    background: radial-gradient(circle, rgba(246,192,96,1) 50%, rgba(2,0,36,1) 100%, rgba(0,212,255,1) 100%) no-repeat fixed; 
     height: clamp(800px, 100vh, 100vh);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
 header {
